@@ -11,7 +11,7 @@ main() {
   Multiline comment
   Multiline comment
    */
-  print(12+45);
+  print(12+46);
   print(4 * 45);
   print(4 / 45);
   print(4 - 45);
